@@ -5,4 +5,4 @@
 * **JavaScript** - **React**/**Next**, **Node**, **Express** 
 * **Python** - **Flask**, **Django**
 * **PHP**
-* **Zoho One** - **CRM**, **Creator**, **Deluge**
+* **Zoho One** - Customisation & Automation, **CRM**, **Creator**, **Deluge**
