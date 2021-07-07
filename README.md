@@ -2,7 +2,7 @@
 
 ### Skills
 * **HTML**, **CSS** - **Bootstrap**, **TailwindCSS**
-* **JavaScript** - **React**/**Next** 
+* **JavaScript** - **React**/**Next**, **Node**, **Express** 
 * **Python** - **Flask**, **Django**
 * **PHP**
 * **Zoho One** - **CRM**, **Creator**, **Deluge**
