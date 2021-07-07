@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khDev01 and I’m a passionate web developmer
+👋 Hi, I’m @khDev01 and I’m a passionate web developmer
 
 ### Skills
 * **HTML**, **CSS** - **Bootstrap**, **TailwindCSS**
