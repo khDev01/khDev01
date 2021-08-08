@@ -34,7 +34,4 @@ View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio")
 ### Contact me 
 [![Linkedin Badge](https://img.shields.io/badge/-kasimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasim-dev/)](https://www.linkedin.com/in/kasim-dev/)
 
-
-
-![Visitor Badge](https://Profile/views-badge.laobi.icu/badge?page_id=khDev01.khDev01)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khDev01.khDev01)
