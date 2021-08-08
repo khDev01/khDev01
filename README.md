@@ -36,5 +36,5 @@ View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio")
 
 
 
-![Visitor Badge](https://Profile views-badge.laobi.icu/badge?page_id=khDev01.khDev01)
+![Visitor Badge](https://Profile/views-badge.laobi.icu/badge?page_id=khDev01.khDev01)
 
