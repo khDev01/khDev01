@@ -14,7 +14,7 @@ View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio")
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django)]
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 
 
