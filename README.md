@@ -35,3 +35,4 @@ View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio")
 [![Linkedin Badge](https://img.shields.io/badge/-kasimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasim-dev/)](https://www.linkedin.com/in/kasim-dev/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khDev01.khDev01)
+<img src="https://gpvc.arturio.dev/khDev01" alt="profile views">
