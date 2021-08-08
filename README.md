@@ -32,6 +32,10 @@ View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio")
 * **Zoho One** - Customisation & Automation, **CRM**, **Creator**, **Deluge**
 
 ### Contact me 
-[![Linkedin Badge](https://img.shields.io/badge/-kasim-dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasim-dev/)](https://www.linkedin.com/in/kasim-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-kasimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasim-dev/)](https://www.linkedin.com/in/kasim-dev/)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khDev01.khDev01)
+
