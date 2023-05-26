@@ -23,14 +23,14 @@
 
 
 
-
+<!-- 
 ### Skills
 * **HTML**, **CSS** - **Bootstrap**, **TailwindCSS**
 * **JavaScript** - **React**/**Next**, **Node**, **Express** 
 * **Python** - **Flask**, **Django**
 * **PHP**
 * **Zoho One** - Customisation & Automation, **CRM**, **Creator**, **Deluge**
-
+ -->
 ### Contact me 
 [![Linkedin Badge](https://img.shields.io/badge/-kasimdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kasim-dev/)](https://www.linkedin.com/in/kasim-dev/)
 
