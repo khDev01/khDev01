@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px"> Hi, I’m @khDev01 and I’m a passionate web developer. <img src="https://gpvc.arturio.dev/khDev01" alt="profile views">
+# Hello, I’m kasim
 
 <!-- View my Portfolio [here!](https://khdev01.github.io/ "KhDev01 Portfolio") -->
 
